@@ -4,9 +4,13 @@
 
 * steps to replicate
 * make a new folder and inside of it
+
 ```npm init```
+
 ```npm install request --save```
+
 ```touch code.js```
+
 * open up code.js and copy and paste sample code from request library page: http://www.omdbapi.com/
 
 * replace URL to hit with omdb api url call
